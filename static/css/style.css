@@ -1,7 +1,7 @@
 body{
     background-image: url('/static/img/night.png');
     background-size: cover;
- 	background-color: #cccccc;
+    background-color: #cccccc;
     position: relative;
     display: flex;
     flex-direction: column;
