@@ -1,5 +1,5 @@
 # Basic_Horoscope
 ![](first_page.JPG)
 
-#Result Example
+# Result Example
 ![](result.JPG)
