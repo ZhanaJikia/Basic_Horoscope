@@ -1,0 +1,49 @@
+body{
+    background-image: url('/static/img/night.png');
+    background-size: cover;
+ 	background-color: #cccccc;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+
+h2{
+    color: #ffffff;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 40px;
+    text-shadow: #FC0 1px 0 10px;
+}
+
+
+.time, .horoscope {
+   background: transparent;
+   border: 5px, solid, #ffffff;
+   font-size: 14px;
+   height: 35px;
+   padding: 5px;
+   width: 268px;
+   color: #ffffff;
+}
+
+
+.label {
+	color: #ffffff;
+	font-size: 30px;
+	position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+}
+
+.submit {
+	border-radius: 12px;
+	background: #0d4251;
+	color: #edeff2;
+
+
+

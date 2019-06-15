@@ -1,0 +1,32 @@
+
+body{
+    background-image: url('/static/result_img/nate.png');
+    background-size: cover;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+
+h2{
+    color: #ffffff;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 40px;
+    text-shadow: #FC0 1px 0 10px;
+}
+
+
+p{
+    width: 80%;
+    font-size: 18px;
+    color: #e3e5e8;
+    font-family: 'Crete Round', serif;
+    margin-top: 50px;
+    margin-right: 60px;
+    border: #ffffff 2px dotted;
+    border-radius: 10px;
+    padding: 28px;
+    background-color: rgba(1,1,4,0.4)
+}
